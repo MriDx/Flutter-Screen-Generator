@@ -3,11 +3,24 @@
   "displayName": "flutter screen generator",
   "description": "",
   "version": "0.0.1",
+  "publisher": "MriDx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MriDx/Flutter-Screen-Generator.git"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "flutter",
+    "bloc",
+    "generator",
+    "screen",
+    "dart"
   ],
   "activationEvents": [
     "onCommand:flutter-screen-generator.createScreen",
